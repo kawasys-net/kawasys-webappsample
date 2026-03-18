@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="kawasys.webappsample.Shared/kawasys.webappsample.Shared.csproj" Id="22cb9912-b801-4f5d-9b24-63246bb26ff6" />
   <Project Path="kawasys.webappsample/kawasys.webappsample.Client/kawasys.webappsample.Client.csproj" />
   <Project Path="kawasys.webappsample/kawasys.webappsample/kawasys.webappsample.csproj" />
 </Solution>
