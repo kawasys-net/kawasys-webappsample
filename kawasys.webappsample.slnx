@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="kawasys.webappsample/kawasys.webappsample.Client/kawasys.webappsample.Client.csproj" />
+  <Project Path="kawasys.webappsample/kawasys.webappsample/kawasys.webappsample.csproj" />
+</Solution>
